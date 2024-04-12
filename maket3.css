@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+}
+header{
+    background-color: black;
+    height: 10vh ;
+    width: 100%;
+}
+section{
+    background-color: green;
+    height: 20vh;
+    width: 100%;
+}
+.main-box{
+    display: flex;
+
+}
+.box{
+    background-color: pink;
+    width: 20vw;
+    height: 60vh;
+
+}
+.box-center{
+    background-color: yellow;
+    height: 60vh;
+    width: 60vw;
+}
+footer{
+    background-color: black;
+    height: 10vh ;
+    width: 100%;
+}

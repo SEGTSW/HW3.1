@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+}
+header{
+    background-color: #cbd2cb;
+    height: 10vh ;
+    width: 100% ;
+}
+.box{
+    background-color: grey;
+    height: 70vh ;
+    width: 33vw;
+
+}
+.main-box{
+    display: flex;
+
+}
+.box2{
+    background-color: black;
+    height: 70vh ;
+    width: 33vw;
+
+}
+footer{
+    background-color: #bcc2ce;
+    height: 20vh ;
+    width: 100% ;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    flex-direction: column;
+}
